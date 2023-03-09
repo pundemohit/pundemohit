@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Punde</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pundemohit&label=Profile%20views&color=0e75b6&style=flat" alt="pundemohit" /> </p>
+
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pundemohit&label=Profile%20views&color=0e75b6&style=flat" alt="pundemohit" /> </p>
 <img align="right" alt="Coding" width="400" src="http://www.freecodecamp.online/image/f11.gif">
 
 - 🌱 I’m currently learning **Flutter.**
