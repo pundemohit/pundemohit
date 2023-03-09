@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Flutter.**
 
-- 👨‍💻 All of my projects are available at [https://pundemohit.netlify.app/](https://pundemohit.netlify.app/)
-
 - 💬 Ask me about **DSA, FUll stack development.**
 
 - 📫 How to reach me **pundemohit@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://pundemohit.netlify.app/](https://pundemohit.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
