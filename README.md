@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pundemohit&show_icons=true&locale=en" width="300" alt="pundemohit"/><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" height="130" src="https://github-profile-trophy.vercel.app/?username=pundemohit" alt="pundemohit" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pundemohit&" alt="pundemohit" /></p>
+<p><img align="left" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=pundemohit&" alt="pundemohit" /> <p align="center"> <img width="500" src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p></p>
 
